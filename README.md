@@ -1,8 +1,11 @@
 # Text-Summarizer
 
-This project focuses on text summarization using the PEGASUS transformer. The following steps outline the workflow to successfully run the project.
+This project focuses on the end-to-end implementation of text summarization using the PEGASUS transformer.
 
 # Workflow
+These are the steps that should be followed while implementing each step in the project like data ingestion, data transformation,...deployment, etc.
+
+
 - Step 1: Update config.yaml
 - Step 2: Update params.yaml
 - Step 3: Update entity
