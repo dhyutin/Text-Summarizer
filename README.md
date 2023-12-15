@@ -3,7 +3,7 @@
 This project focuses on the end-to-end implementation of text summarization using the PEGASUS transformer.
 
 # Workflow
-These are the steps that should be followed while implementing each step in the project like data ingestion, data transformation,...deployment, etc.
+These are the steps that should be followed while implementing each step in the project like data ingestion, data validation, data transformation, model training and model evaluation.
 
 
 - Step 1: Update config.yaml
